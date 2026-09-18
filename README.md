@@ -23,3 +23,17 @@ A simple and interactive flashcard quiz application built with Python and Stream
 
 ```bash
 pip install -r requirements.txt
+## Run the application:
+streamlit run app.py
+📂 Project Structure
+flashcard_app/
+├── app.py
+├── requirements.txt
+└── README.md
+👩‍💻 Author
+
+Shameena Shaik
+
+B.Tech CSE-AI Student
+
+⭐ If you find this project useful, feel free to explore it!
